@@ -1,7 +1,7 @@
 IneffectivePower
 ================
 
-**Works on iOS 8. Also works on 7, and possibly 5/6 (untested) but is unneeded on those iOS versions. Has arm64 support. Works on iPhone, iPod touch, and iPad. (just like everything else I write)**
+**Works on iOS 8 only. Has arm64 support. Works on iPhone, iPod touch, and iPad. (just like everything else I write)**
 
 IneffectivePower is a tweak I wrote that stops the infamous "Effective Power" text string from crashing CoreText on a system-wide level. This means it should work in every app.
 
