@@ -1,11 +1,12 @@
 Package: net.angelxwind.ineffectivepower
 Name: IneffectivePower
 Depends: mobilesubstrate, firmware (>= 8.0)
-Version: 1.2.4
+Version: 1.2.5
 Architecture: iphoneos-arm
 Description: Stop the infamous "Effective Power" text string from crashing CoreText!
-Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-Author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
+Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
+Author: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
 Section: Tweaks
-Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.ineffectivepower
+Homepage: https://cydia.angelxwind.net/
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.ineffectivepower
 Conflicts: com.mohammadag.unicodesuppressor, com.imokhles.antieffective, com.sull.ineffectivepower
