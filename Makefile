@@ -1,9 +1,10 @@
-THEOS_PACKAGE_DIR_NAME = debs
 TARGET =: clang
 ARCHS = armv7 armv7s arm64
 DEBUG = 0
 GO_EASY_ON_ME = 1
-ADDITIONAL_CFLAGS = -fobjc-arc
+
+THEOS_PACKAGE_DIR_NAME = debs
+PACKAGE_VERSION = $(THEOS_PACKAGE_BASE_VERSION)
 
 include $(THEOS)/makefiles/common.mk
 
